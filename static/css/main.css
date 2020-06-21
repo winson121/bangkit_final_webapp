@@ -1,0 +1,53 @@
+body {
+  background-color: #fbfaf3;
+}
+
+header {
+  width:100%;
+  text-align:center;
+  background-color: #fbfaf3;
+}
+
+.very_main {
+  font-family: 'Poppins', sans-serif;
+}
+
+.responsive{
+  text-align: center;
+}
+
+.get_predict {
+  font-size: 20;
+  font-family: 'Poppins', sans-serif;
+  float: right;
+}
+
+.first {
+  font-size: 25;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 60px;
+  color: #b25fa0;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 60px;
+  color: #b25fa0;
+}
+
+h2 {
+font-family: 'Poppins', sans-serif;
+font-style: bold;
+text-align: center;
+}
+
+ol {
+font-family: 'Poppins', sans-serif;
+font-style: bold;
+text-align: center;
+}
+

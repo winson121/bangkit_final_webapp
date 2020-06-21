@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bangkit-makeup",
+  "private_key_id": "e913a86923af87febd1b880df57b7606df24fac5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCvDYDVyaNGGrps\nHNOafz4IcY5GG7ajYgcLrEDjY0lRJRggqwYCfsLuZzJaFDtJguXPVfDmcPi9CPNo\nEgNLcTBbi14Gd3NwwvnzOsEQkQ6aCSvzd/ksGz2FF6Gt3HZ16cuD9a9Vsd6GBy9R\n0mp1O9sTWOGsanBXN/0Vih8QEVVnWt+EKWtiiDi0rPiIsBurAYkl5x3Ag/z4wei6\nk4anZrur/JhdNRysdol07sE3idbuXaPcGvThAZR1c6t2na45DFYbMuA5Mwih9DWt\nD0tytIUtj0vmRH1lEHQeL3arHF4HYbZDVDVBxAGd0DtI82bnBXQaBxmm6I+sF6Dv\nT/V9N5aXAgMBAAECggEAUOZFLcgnmFz+3br+we5fLUjJjzX8lIpXpjnfrRa0CffC\nLErNlradgM8Zco7aDXGcolLd56m7EqXB081LT4DKb+w7MnLe23SITjPPiMf4/xAR\nC05dTdhy+IDA3BhAeOLpBp2y/8AZjkhgwogjYfWdG9ZeSS/RpkU+RceU7niMRxxu\n8pr/DadW0TpH2MGWwglaxuqymdVf4LiBF84HGWtlJblVz12jQ+4YS1NrvEOr/IV/\nTSP1KDOzLRuaz1t4ipmChWBa62OWa4xyt9x+YFNkbL0MF6r2a/DcxgLUqlvs/dbB\n4RmQGJRiyuinqmRZcdie1vwD9GnTD2J+liZ9tJaZ4QKBgQD0YxZKgQ6oEYSq7Oug\nY+/gtE3nudYHUi3ShjqKUU9eQUNAXh+KqUV++LwM4wNE9W2P/Z1yJKUSlPrtvl7H\nCspcdwmHONSfDkdqjRulbe4HXrJ7XOW2nuTesTsHC5UoMaxJBV5HF7UZIfu0FYsV\nkDqB8TdGVhmbzi6u8RVWi4cN9wKBgQC3XvrmA2LzdiB2hqD2+OJK7df/wN82uFz4\nfNnGUWEPavK428MtCT6fOLRSBhWnRDS5h4fOrbtIy69bRYDAdcBXOferugDJnHDv\nno60XAwyGXNNJK5tHvwlu7vhRpzzcZfLlGhJ6cQGmeIFiqkpQrnzcXtiCKyBXqny\nMdjC0KwUYQKBgEsXOx0vZHp9z37Zh1jj/CvWGu3tqvba6Ft8hPZFH5b9hJV9lkF7\n22+1K8rl4fZJVx3cNomA+vunrSZpzSNpjF428UWMT8CDmawCqZD+Ixo+nabMF4Uy\nc259lH6Ir48HHEHflWVQwoNzbqyZxf+dLm0I2gwRnpLCGpQEXaMXAitnAoGAfapg\nxZsSiAivTKsMytRbuL/w5DvYfRax2DUvxYJlwvwnJVquEkIgoVtp8EBtPHk4rODd\nyF01WTkFjsY96yeHTf/S5OQOwBwvJXgDEkV2sirQ4tA9nVi7slxK8KLE0u1I+uJU\n6jqC9Ycl52hUb4tkBhsCVHffSLWIQAu7Ih+BnmECgYBerriIfprjELP74mB0/8CY\nj9fstojUHPHk1YAreEe2nuYG+VMpRmqiNYPTzaJ3veymHTGc97ZBJJYGz7ZFLkkk\nPSSiCPgQDcRAiGpwGVAIzCtgFKiqwir/3uxFiQZKxlX+pSJOs7PkQWhUsjxxKUqF\ncYvF2kVFojRK/xFYXnf5SQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bangkit-makeup-ai@bangkit-makeup.iam.gserviceaccount.com",
+  "client_id": "110170761724932861909",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bangkit-makeup-ai%40bangkit-makeup.iam.gserviceaccount.com"
+}
