@@ -26,10 +26,20 @@ def predict_json(project, model, instances, version=None):
 def read_image(file):
     # img = Image.open(request.files['file'])
     img = Image.open(file)
-    img = img.resize((150, 150))
+    print("RESIZE")
+    to_this = (150, 150)
+    print(to_this)
+    img = img.resize(to_this) #((150, 150))
+    img = img.convert('RGB')
+    print("converted rgb")
     x = np.array(img)
     print(x.shape)
     x = np.expand_dims(x, axis=0)
+    print(x.shape)
+
+    print("TRY RESCALING TO -1 TO 1")
+    x = np.interp(x, (x.min(), x.max()), (-1, +1))
+    print(x.shape)
     return x
 
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'bangkit-makeup-e913a86923af.json'
@@ -59,10 +69,9 @@ def home():
     model_name = 'bangkit_model_final_v2'
     version = 'v2'
     output_dense = 'dense_7' 
-    threshold = 0.04
+    threshold = 0.068
 
 
-    print(str(project_name)+' '+str(model_name)+' '+str(version))
     get_prediction = predict_json(project_name, model_name, img.tolist(), version) 
 #(, 'makeup_test_model', img.tolist(), 'v1')
 
